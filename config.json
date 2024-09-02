@@ -4,7 +4,7 @@
 		"use_tls": false,
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
-		"trusted_origins": ["https://railway.app/project/2a9cfc2b-736f-4d31-ab5a-cab16987fc4a/service/4f498ce5-175e-4051-80e4-ebd43ad82deb?id=5fed3d71-4c8c-4520-af76-fbed4e85eccb#details"]
+		"trusted_origins": ["https://railway.app/project/2a9cfc2b-736f-4d31-ab5a-cab16987fc4a/service/4f498ce5-175e-4051-80e4-ebd43ad82deb?id=5fed3d71-4c8c-4520-af76-fbed4e85eccb#details" , "gophish-production-7317.up.railway.app"]
 	},
 	"phish_server": {
 		"listen_url": "0.0.0.0:80",
